@@ -52,6 +52,8 @@ namespace Test_Vehicle
 
             app.UseAuthorization();
 
+            //Just a dummy chnage!
+            
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
