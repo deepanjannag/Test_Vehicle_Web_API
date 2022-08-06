@@ -53,6 +53,7 @@ namespace Test_Vehicle
             app.UseAuthorization();
 
             //Just a dummy chnage!
+            //THis change line goes only into 'child' branch!
             
             app.UseEndpoints(endpoints =>
             {
