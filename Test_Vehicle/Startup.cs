@@ -54,6 +54,7 @@ namespace Test_Vehicle
 
             //Just a dummy chnage!
             //THis change line goes only into 'child' branch!
+            //Another one!
             
             app.UseEndpoints(endpoints =>
             {
